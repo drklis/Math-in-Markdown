@@ -1,3 +1,18 @@
+# Cobb-Douglas Production Function
+
+The CD function is useful in economics: 
+
+$$Y(L,K) = A L^\beta K^\alpha$$
+
+Where
+- $Y$ is production/output
+- $L$ is labor
+- $K$ is capital
+- $A$ is tech
+- $\alpha$ and $\beta$ are shares contributed
+
+
+
 # Inline Math
 
 Here is an example with an existance quantifier: $\forall x > 0$
@@ -38,4 +53,27 @@ p_1 \\
 p_2 \\
 p_3
 \end{pmatrix}
+$$
+
+# Systems
+
+$$
+\begin{align}
+3 x &+ 2y &= 5 \\
+x &- y &= 1
+\end{align}
+$$
+
+$$
+\begin{align}
+3 x + 2y &= 5 \\
+x - y &= 1
+\end{align}
+$$
+
+$$
+\begin{aligned}
+3 x + 2y &= 5 \\
+x - y &= 1
+\end{aligned}
 $$
